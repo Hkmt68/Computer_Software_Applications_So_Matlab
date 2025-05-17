@@ -1,0 +1,7 @@
+Kodlar ve devre şeması oldukça hazır 
+ancak EKG sensöründeki grafiği 
+bozulmadan görebilmek için
+pedleri en doğru yere takmamız gerekiyor.  
+
+
+Grafiği görebiliyoruz. 
