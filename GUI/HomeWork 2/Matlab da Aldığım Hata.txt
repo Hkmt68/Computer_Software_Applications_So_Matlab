@@ -1,0 +1,101 @@
+>> guide('PlottingBode')
+Warning: GUIDE will be removed in a future release. Use APPDESIGNER instead. 
+Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+
+Error in guide (line 162)
+    result = com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(filename);
+ 
+com.mathworks.jmi.MatlabException: Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+	at com.mathworks.jmi.NativeMatlab.SendMatlabMessage(Native Method)
+	at com.mathworks.jmi.NativeMatlab.sendMatlabMessage(NativeMatlab.java:273)
+	at com.mathworks.jmi.MatlabLooper.sendMatlabMessage(MatlabLooper.java:120)
+	at com.mathworks.jmi.Matlab.mtFevalConsoleOutput(Matlab.java:1835)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:195)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:172)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.runOnMatlabThread(LayoutWorker.java:51)
+	at com.mathworks.jmi.MatlabWorker$2.run(MatlabWorker.java:79)
+	at com.mathworks.jmi.MatlabWorker.start(MatlabWorker.java:248)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.start(LayoutWorker.java:70)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.fevalConsoleOutput(LayoutWorker.java:41)
+	at com.mathworks.toolbox.matlab.guide.LayoutLooper.readFigure(LayoutLooper.java:712)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:2024)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:1987)
+Warning: GUIDE will be removed in a future release. Use APPDESIGNER instead. 
+Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+
+Error in guide (line 162)
+    result = com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(filename);
+ 
+com.mathworks.jmi.MatlabException: Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+	at com.mathworks.jmi.NativeMatlab.SendMatlabMessage(Native Method)
+	at com.mathworks.jmi.NativeMatlab.sendMatlabMessage(NativeMatlab.java:273)
+	at com.mathworks.jmi.MatlabLooper.sendMatlabMessage(MatlabLooper.java:120)
+	at com.mathworks.jmi.Matlab.mtFevalConsoleOutput(Matlab.java:1835)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:195)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:172)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.runOnMatlabThread(LayoutWorker.java:51)
+	at com.mathworks.jmi.MatlabWorker$2.run(MatlabWorker.java:79)
+	at com.mathworks.jmi.MatlabWorker.start(MatlabWorker.java:248)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.start(LayoutWorker.java:70)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.fevalConsoleOutput(LayoutWorker.java:41)
+	at com.mathworks.toolbox.matlab.guide.LayoutLooper.readFigure(LayoutLooper.java:712)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:2024)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:1987)
+Warning: GUIDE will be removed in a future release. Use APPDESIGNER instead. 
+Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+
+Error in guide (line 162)
+    result = com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(filename);
+ 
+com.mathworks.jmi.MatlabException: Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+	at com.mathworks.jmi.NativeMatlab.SendMatlabMessage(Native Method)
+	at com.mathworks.jmi.NativeMatlab.sendMatlabMessage(NativeMatlab.java:273)
+	at com.mathworks.jmi.MatlabLooper.sendMatlabMessage(MatlabLooper.java:120)
+	at com.mathworks.jmi.Matlab.mtFevalConsoleOutput(Matlab.java:1835)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:195)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:172)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.runOnMatlabThread(LayoutWorker.java:51)
+	at com.mathworks.jmi.MatlabWorker$2.run(MatlabWorker.java:79)
+	at com.mathworks.jmi.MatlabWorker.start(MatlabWorker.java:248)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.start(LayoutWorker.java:70)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.fevalConsoleOutput(LayoutWorker.java:41)
+	at com.mathworks.toolbox.matlab.guide.LayoutLooper.readFigure(LayoutLooper.java:712)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:2024)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:1987)
+>> guide
+Warning: GUIDE will be removed in a future release. Use APPDESIGNER instead. 
+Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+
+Error in guide (line 162)
+    result = com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(filename);
+
+Error in guide>openBlankApp (line 210)
+guide(targetFIGFile)
+
+Error in guide (line 33)
+    openBlankApp();
+ 
+com.mathworks.jmi.MatlabException: Error: File: guidefunc.m Line: 169 Column: 1
+Function definition is misplaced or improperly nested.
+	at com.mathworks.jmi.NativeMatlab.SendMatlabMessage(Native Method)
+	at com.mathworks.jmi.NativeMatlab.sendMatlabMessage(NativeMatlab.java:273)
+	at com.mathworks.jmi.MatlabLooper.sendMatlabMessage(MatlabLooper.java:120)
+	at com.mathworks.jmi.Matlab.mtFevalConsoleOutput(Matlab.java:1835)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:195)
+	at com.mathworks.jmi.MatlabWorker.feval(MatlabWorker.java:172)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.runOnMatlabThread(LayoutWorker.java:51)
+	at com.mathworks.jmi.MatlabWorker$2.run(MatlabWorker.java:79)
+	at com.mathworks.jmi.MatlabWorker.start(MatlabWorker.java:248)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.start(LayoutWorker.java:70)
+	at com.mathworks.toolbox.matlab.guide.utils.LayoutWorker.fevalConsoleOutput(LayoutWorker.java:41)
+	at com.mathworks.toolbox.matlab.guide.LayoutLooper.readFigure(LayoutLooper.java:712)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:2024)
+	at com.mathworks.toolbox.matlab.guide.LayoutEditor.openLayoutEditor(LayoutEditor.java:1987)
+>> 
